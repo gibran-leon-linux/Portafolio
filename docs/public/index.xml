@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portafolio: Paradigmas De Programación</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Portafolio: Paradigmas De Programación</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Feb 2026 23:48:09 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Práctica 0: Uso De Repositorios</title>
+      <link>http://localhost:1313/practica0/</link>
+      <pubDate>Thu, 19 Feb 2026 23:48:09 -0800</pubDate>
+      <guid>http://localhost:1313/practica0/</guid>
+      <description>&lt;h2 id=&#34;markdown&#34;&gt;MARKDOWN&lt;/h2&gt;&#xA;&lt;h3 id=&#34;qué-es&#34;&gt;¿QUÉ ES?&lt;/h3&gt;&#xA;&lt;p&gt;Markdown o MD es un lenguaje de marcado ligero creado por John Gruber.&#xA;Permite escribir documentos en un formato de texto plano, fácil de leer, escribir,&#xA;y luego convertirlos en documentos HTML válidos.&lt;/p&gt;&#xA;&lt;h3 id=&#34;cómo-se-utiliza&#34;&gt;¿CÓMO SE UTILIZA?&lt;/h3&gt;&#xA;&lt;p&gt;Markdown se utiliza en muchos lugares donde es necesario dar estilo o estructurar texto plano.&#xA;Los desarrolladores y redactores técnicos a menudo usan Markdown para escribir documentación debido&#xA;a su legibilidad y fácil integración con sistemas de control de versiones como Git.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
