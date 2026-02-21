@@ -218,4 +218,4 @@ name: Deploy
 
 -[Github](https://github.com/gibran-leon-linux?tab=repositories "Github")
 
--[Pagina Hugo](https://www.google.com "Hugo")
+-[Pagina Hugo](https://gibran-leon-linux.github.io/Portafolio/ "Hugo")
