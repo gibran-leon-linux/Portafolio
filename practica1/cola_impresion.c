@@ -24,7 +24,9 @@ typedef struct
     int paginas_restantes;   // para simular progreso
     int copias;              // opcional (>=1)
     Prioridad_t prioridad;   // normal/urgente
-} cola;
+    Estado_t estado;         // en cola/imprimiendo/...
+    int ms_por_pagina;       // opcional para simulacion
+} PrintJob_t;
 
 void menu();
 void q_init();
