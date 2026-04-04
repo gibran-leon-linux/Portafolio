@@ -1,7 +1,7 @@
 +++
 date = '2026-04-03T23:54:00-07:00'
 draft = false
-title = 'Practica2'
+title = 'Practica 2: '
 +++
 
 ## INTRODUCCIÓN
